@@ -1,0 +1,3 @@
+rootProject.name = "Documentation Test Finansialku"
+include ':app'
+include ':core'
